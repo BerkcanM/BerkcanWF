@@ -1,0 +1,33 @@
+{
+  "name": "cmf-v12",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "croxydb": "0.0.7",
+    "discord.js": "^11.5.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.2",
+    "http": "^0.0.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3",
+    "discord-logs": "^2.2.1"
+  },
+  "engines": {
+    "node": "11.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
